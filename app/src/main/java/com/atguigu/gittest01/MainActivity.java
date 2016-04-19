@@ -1,7 +1,7 @@
 package com.atguigu.gittest01;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG", "111111111111");
         Log.e("TAG", "222222222");
         Log.e("TAG", "33333333");
+        Log.e("TAG", "4444444444");
     }
 }
