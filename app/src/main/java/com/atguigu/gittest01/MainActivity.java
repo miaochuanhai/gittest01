@@ -1,8 +1,7 @@
 package com.atguigu.gittest01;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
