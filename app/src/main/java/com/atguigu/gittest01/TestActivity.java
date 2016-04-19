@@ -11,5 +11,6 @@ public class TestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         Log.e("TAG", "33333333");
+        Log.e("TAG", "444444444");
     }
 }
